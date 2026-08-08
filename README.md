@@ -200,7 +200,7 @@ python -m streamlit run app.py
 
 The application will be available at:
 
-http://localhost:8501
+https://movie-recommendation-system-p7fth3k95z3cjg3lz3aeqm.streamlit.app/
 🌐 Application
 
 The Streamlit application provides a simple interface where users can:
